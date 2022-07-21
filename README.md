@@ -1,4 +1,4 @@
-![codename-602's github stats](https://github-readme-stats.vercel.app/api?username=codename-602&count_private=true&show_icons=true&theme=dracula)
+![sizxero's github stats](https://github-readme-stats.vercel.app/api?username=sizxero&count_private=true&show_icons=true&theme=dracula)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sizxero)](https://solved.ac/sizxero)
 
