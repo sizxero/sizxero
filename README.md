@@ -1,5 +1,5 @@
 <div align='center'><h1>🙌 Hi, There! I'm YuGyeong 🙌</h1></div>
-<br/>
+
 <div align='center'> 
 
 <h3>☎️ CONTECT ☎️</h3>
@@ -10,7 +10,7 @@
 
 </div>
 
-<br/><br/>
+<hr/>
 
 <div align=center> 
   <h3>💕 INTEREST & STUDYING 📚</h3>
@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 </div>
 
-
-<br/><br/>
+<br/>
 
 <div align=center> 
   <h3>🎨 FRONT-END STACKS 🖌️</h3>
@@ -46,11 +45,9 @@
   <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
-  
-  <br>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align=center> 
   <h3>⚙️ USING TOOLS 🔧</h3>
@@ -64,10 +61,9 @@
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> 
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-  <br>
 </div>
 
-<br/><br/>
+<hr/>
 
 
 <div align='center'>
