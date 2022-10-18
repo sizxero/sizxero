@@ -5,7 +5,6 @@
 <h3>☎️ CONTECT ☎️</h3>
  <a href="mailto:sixzero514@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sixzero514@gmail.com"/></a>
  <a href="https://velog.io/@codename-602"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
- <a href="https://blog.naver.com/rwxrw_rw_"><img src="https://img.shields.io/badge/Daily Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
  <a href="https://www.notion.so/ba7a8f0e6ed949ecb36c9e193ce79513"><img src="https://img.shields.io/badge/My Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
