@@ -9,8 +9,7 @@
 
 </div>
 
-<hr/>
-
+<br/>
 <div align=center> 
   <h3>🎨 FRONT-END STACKS 🖌️</h3>
   
