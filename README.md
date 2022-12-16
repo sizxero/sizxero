@@ -5,7 +5,6 @@
 <h3>☎️ CONTECT ☎️</h3>
  <a href="mailto:sixzero514@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sixzero514@gmail.com"/></a>
  <a href="https://velog.io/@codename-602"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
- <a href="https://www.notion.so/ba7a8f0e6ed949ecb36c9e193ce79513"><img src="https://img.shields.io/badge/My Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
 
@@ -27,12 +26,11 @@
 <br/>
 
 <div align=center> 
-  <h3>📚 Studying & Interests 🥰</h3>
+  <h3>🤓 Studying 📚</h3>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> 
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-  <img src="https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl&logoColor=white">
 </div>
 
 
