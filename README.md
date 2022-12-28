@@ -32,6 +32,3 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
 </div>
-
-
-![snake gif](https://github.com/sizxero/sizxero/blob/output/github-contribution-grid-snake.svg)
