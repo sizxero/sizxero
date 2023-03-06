@@ -30,4 +30,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=flat"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=flat"> 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat"> 
+ <br>
+ <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=flat"> 
+ <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&style=flat"> 
+ <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white&style=flat"> 
 </div>
