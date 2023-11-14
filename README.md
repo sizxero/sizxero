@@ -1,7 +1,7 @@
 
 <div align='center'> 
 
-<h3>☎️ CONTECT ☎️</h3>
+<h3>☎️ CONTACT ☎️</h3>
  <a href="mailto:sixzero514@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sixzero514@gmail.com"/></a>
  <a href="https://velog.io/@codename-602"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
